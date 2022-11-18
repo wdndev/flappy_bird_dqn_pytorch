@@ -41,7 +41,7 @@ python qdn_train.py
 
 ## 5.Test
 
-
+![](images/flappy_bird.gif)
 
 ```shell
 
